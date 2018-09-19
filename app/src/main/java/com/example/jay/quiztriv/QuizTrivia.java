@@ -83,7 +83,7 @@ public class QuizTrivia extends AppCompatActivity {
                     Toast.makeText(QuizTrivia.this, "CORRECT", Toast.LENGTH_SHORT).show();
 
                 }else{
-                    Toast.makeText(QuizTrivia.this, "YOU'RE WRONG BOI!!!!!!!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(QuizTrivia.this, "IN-CORRECT, STUDY HARDER!", Toast.LENGTH_SHORT).show();
                     updateQuestion();
                 }
 
@@ -109,7 +109,7 @@ public class QuizTrivia extends AppCompatActivity {
                     Toast.makeText(QuizTrivia.this, "CORRECT", Toast.LENGTH_SHORT).show();
 
                 }else{
-                    Toast.makeText(QuizTrivia.this, "YOU'RE WRONG BOI!!!!!!!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(QuizTrivia.this, "IN-CORRECT, STUDY HARDER!", Toast.LENGTH_SHORT).show();
                     updateQuestion();
                 }
             }
@@ -132,7 +132,7 @@ public class QuizTrivia extends AppCompatActivity {
                     Toast.makeText(QuizTrivia.this, "CORRECT", Toast.LENGTH_SHORT).show();
 
                 }else{
-                    Toast.makeText(QuizTrivia.this, "YOU'RE WRONG BOI!!!!!!!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(QuizTrivia.this, "IN-CORRECT, STUDY HARDER!", Toast.LENGTH_SHORT).show();
                     updateQuestion();
                 }
             }
